@@ -1,0 +1,4 @@
+1|1|2026-08-17|Used public transportation|2.5
+2|1|2026-08-17|Recycled waste|1.5
+3|1|2026-08-17|Planted a tree|21.0
+4|1|2026-08-17|Used public transportation|25.0

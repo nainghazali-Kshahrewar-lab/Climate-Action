@@ -1,0 +1,9 @@
+1|1|2026-08-17|Travel to university|20.0|TRANSPORT|Car
+2|1|2026-08-17|Electricity usage|10.0|ENERGY|Electricity
+3|1|2026-08-17|Food waste|2.0|WASTE|Food
+4|1|2026-08-17|electricity|150.0|ENERGY|Electricity
+5|1|2026-08-17|car|20.0|TRANSPORT|Car
+6|1|2026-08-17|DRIVING|150.0|TRANSPORT|Car
+7|1|2026-08-17|travel to mall|11.5|TRANSPORT|Bus
+8|1|2026-08-17|using air conditioner|25.0|ENERGY|Air Conditioning
+9|1|2026-08-17|plastic waste|5.0|WASTE|Plastic
